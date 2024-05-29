@@ -1,4 +1,4 @@
-# [Live Preview] ([(https://chatapp-f7b44.web.app/register])
+# [Live Preview] (https://chatapp-f7b44.web.app/register)
 
 
 Welcome to the Chat App! This project is a simple chat application built using React.
